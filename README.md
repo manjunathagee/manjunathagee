@@ -2,11 +2,15 @@
 
 **Senior Frontend Engineer** with 11+ years of expertise building scalable, high-performance web applications. I specialize in React and Angular ecosystems with deep knowledge of performance optimization, component architecture, and design systems. Passionate about architecting micro-frontend platforms and leading engineering teams at scale.
 
+🌐 **[Visit My Portfolio](https://manjunatha-portfolio.vercel.app/)** to see my work in action!
+
 ## 🚀 About Me
 
 - 🏗️ **Technical Leader** with experience managing cross-functional teams and mentoring engineers
+- 🎯 **Performance Expert** - Achieved 40% build time reduction and 55% performance improvements in production systems
 - 🔧 **Architecture Specialist** in micro-frontends, design systems, and component libraries
-- 🌱 Passionate about modern web technologies, love to learn new tech
+- 📈 **Scale-Focused** - Built platforms serving 5M+ users and processing enterprise-grade financial data
+- 🌱 Passionate about modern web technologies, accessibility standards (WCAG 2.1 AA), and developer experience
 - ⚡ **Fun fact:** I've migrated legacy monoliths to modern micro-frontend architectures multiple times!
 
 ## 🛠️ Technical Expertise
@@ -15,6 +19,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ### Languages & Core Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -59,6 +64,8 @@
 
 ### 💡 **Notable Projects**
 - **React UI Kit (2024):** 30+ production-ready components with WCAG 2.1 AA compliance, 90%+ test coverage
+- **Financial Platforms:** Invoice management systems processing advertising revenue across Linear TV and Digital
+- **Mobile Entertainment Platform:** Led 5-member team serving 5M+ users with 99.9% cross-browser compatibility
 
 ## 📊 GitHub Analytics
 
@@ -74,11 +81,13 @@
 
 - 🏗️ **Micro-Frontend Architecture:** Building scalable, independent deployment strategies
 - 🎨 **Design Systems:** Creating enterprise-grade component libraries with accessibility focus
+- 📊 **Performance Engineering:** Optimizing applications for sub-100ms latency and minimal bundle sizes
 - 👥 **Technical Mentorship:** Growing engineering teams and establishing best practices
 - 🔄 **Modern Workflows:** Implementing CI/CD, automated testing, and developer experience improvements
 
 ## 🎖️ Recognition & Leadership
 
+- **🏆 Operative Opstar Award** - Best Performer Q2 2020
 - **👨‍🏫 Technical Mentor** - Successfully mentored junior and mid-level engineers across multiple organizations
 - **📚 Knowledge Sharing** - Established code review standards and documentation practices adopted organization-wide
 
@@ -87,6 +96,7 @@
 I'm passionate about frontend engineering, team leadership, and building products that make a difference. Always open to discussing architecture, mentorship, or exciting opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-citragar)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://manjunatha-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manjunathagee@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manjunathagee)
 

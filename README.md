@@ -58,13 +58,11 @@
 
 ### 🚀 **Impact & Scale**
 - **Legacy Migration:** Led monolithic to micro-frontend transformations with 55% performance improvements
-- **Enterprise Scale:** Designed unified design systems serving 12+ internal applications
+- **Enterprise Scale:** Designed unified design systems serving internal applications
 - **Technical Leadership:** Established architecture reviews and mentorship programs across organizations
 
 ### 💡 **Notable Projects**
 - **React UI Kit (2024):** 30+ production-ready components with WCAG 2.1 AA compliance, 90%+ test coverage
-- **Financial Platforms:** Invoice management systems processing advertising revenue across Linear TV and Digital
-- **Mobile Entertainment Platform:** Led 5-member team serving 5M+ users with 99.9% cross-browser compatibility
 
 ## 📊 GitHub Analytics
 
